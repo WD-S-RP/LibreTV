@@ -1,3 +1,4 @@
+# 本项目自用，请勿宣传或商用，否则后果自负，原项目来源于Github作者LibreSpark，感谢！
 # LibreTV - 免费在线视频搜索与观看平台
 
 <div align="center">
